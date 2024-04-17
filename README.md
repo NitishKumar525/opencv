@@ -1,2 +1,2 @@
-# opencv....p
+# opencv...
 opencv
