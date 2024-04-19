@@ -1,5 +1,4 @@
 # opencv.
 opencv
-hhhhhhhhhhhhhhhh
-mmmmmmmmmmmmmmmmm
+hhhhhhhhhhh
 
