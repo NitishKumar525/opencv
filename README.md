@@ -2,5 +2,4 @@
 opencv.
 ggf
    vvvvvvvvvvvv
-fffffffffffffffff
-fgfg
+ffffffffffffffff
