@@ -1,5 +1,3 @@
 # opencv.
 opencv.
-ggf
-   vv
-fffffff
+g
