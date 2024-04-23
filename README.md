@@ -2,5 +2,4 @@
 opencv.
 
 cccccccccc
-xxxxxxxxxxxx
 xzxxxxxxxxx
