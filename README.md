@@ -1,5 +1,4 @@
 # opencv.
 opencv.
 
-cccccccccc
-xzxxxxxxxxx
+cccccccc
