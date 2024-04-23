@@ -3,5 +3,4 @@ opencv.
 
 cccccccccc
 xxxxxxxxxxxx
-xzxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxaaaa
+xzxxxxxxxxx
