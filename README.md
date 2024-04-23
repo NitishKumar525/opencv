@@ -1,4 +1,2 @@
 # opencv.
-opencv.
-
-cccccccc
+openc
