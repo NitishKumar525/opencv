@@ -1,4 +1,3 @@
 ## opencv.
 
-opencv...
-ddddddddddddd
+opencv.
