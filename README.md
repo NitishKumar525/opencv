@@ -1,5 +1,4 @@
 ## opencv.
 
 opencv...
-ddddddddddddddddddddddddddd
-xxxxxx
+ddddddddddddd
